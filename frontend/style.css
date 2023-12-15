@@ -1,0 +1,234 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+  }
+  .container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #c8ded1;
+    border-radius: 18px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .container2 {
+    width: 52%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #456853;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  h1 {
+    text-align: center;
+    color: #333333;
+  }
+  
+  #textForm {
+    text-align: center;
+  }
+  
+  textarea {
+    width: 95%;
+    height: 200px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    border: 1px solid #ccc;
+    padding: 19px;
+    resize: none;
+  }
+  
+  input[type="submit"] {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #5e8b7e;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 180px;;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #4c7365;
+  }
+  
+  #checkboxContainer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    display: none;
+    color: #555555;
+  }
+  /* Existing CSS remains the same */
+  
+  input[type="file"] {
+    /* Additional styling for the file input */
+    display: none;
+  }
+  /* Existing CSS remains the same */
+  
+  input[type="file"] {
+    /* Additional styling for the file input */
+    display: none;
+  }
+  
+  .uploadButton {
+    padding: 10px 200px;
+    font-size: 16px;
+    background-color: #5e8b7e;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .uploadButton:hover {
+    background-color: #4c7365;
+  }
+  
+  /* Existing CSS remains the same */
+  
+  .button-container {
+    display: flex;
+    align-items: center;
+    border-width: 1px;
+    
+  }
+  
+  .file-input {
+    margin-left: 10px;
+  }
+  /* Existing CSS remains the same */
+  
+  .uploadButton-right {
+    margin-left: auto;
+  }
+  
+  /* Rest of your CSS styles... */
+  
+  /* Rest of your CSS styles... */
+  /* Existing CSS remains the same */
+  
+  .uploadButton-right {
+    margin-left: auto;
+  }
+  .or{
+    font-weight:600;
+    font-size: 20px;
+    margin-top: -15px;
+  }
+  .submit-container {
+    text-align: center;
+    margin-top: -60px;
+    margin-left: 680px;
+    margin-bottom:60px;
+  }
+  
+  /* Rest of your CSS styles... */
+  /* Existing CSS remains the same */
+  
+  /* Styles for the progress bar */
+  
+  
+  /* Align the progress bar to the center */
+  .container {
+    text-align: center;
+    height: 600px;
+    width:800px;
+  }
+  
+  /* Styles for the progress bar */
+  /* .progress-bar {
+    width: 30%;
+    height: 10px;
+    margin-top: 20px;
+    border-radius: 50px; /* Or try '10px' for a more visible rounded edge */ */
+  
+  /* Styles for the completed progress bar */
+  .progress-bar.complete {
+    background-color: #4c7365;
+    border-radius: 10px; /* Or '10px' for a more visible rounded edge */
+  }
+  .fileup{
+    background-color: rgb(224, 249, 187);
+    border-radius: 30px;
+    padding: 15px;
+    margin-top: 30px;
+  }
+  
+  
+  /* Rest of your CSS styles... */
+  
+  /* Add this to your existing CSS styles or create a new stylesheet */
+/* Styling for the file upload button */
+
+body {
+    background-image: url('./1323467.png'); /* Use forward slashes or a correct path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center the content horizontally */
+    margin-top: 10px; /* Adjust the top margin as needed */
+}
+
+.file-input {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/* Update the styles for the upload button to ensure it's centered */
+.uploadButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #5e8b7e;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-left: 10px;;
+}
+
+.uploadButton:hover {
+    background-color: #4c7365;
+}
+
+.uploadButton-right {
+    margin-left: auto;
+}
+.bold-label {
+    font-weight: bold;
+    font-size: 25px;
+    text-align: left; /* Add this line to align the text to the left */
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.anna{
+    font-weight: bold;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.output{
+    color:#f0f0f0;
+}
+.head{
+    margin-left: 0px;
+    
+    font-weight: bold;
+}
