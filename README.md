@@ -1,6 +1,5 @@
 <h1 align="center" id="title">Contendator</h1>
 
-<p align="center"><img src="https://u-static.fotor.com/images/text-to-image/result/PRO-20022f7fc7874e23b2d462fc7359aab1.jpg" alt="project-image"></p>
 
 <p id="description">application which filters out racist steriotypical comments and contents which hold prjudice against specific religion cast color or religion and gives it a mark accordingly.</p>
 
@@ -19,6 +18,24 @@ Here're some of the project's best features:
 *   the content can be inputted as mp4 files
 
 <h2>🛠️ Installation Steps:</h2>
+
+<p>1. installing flask for backend purposes</p>
+
+```
+pip install Flask
+```
+
+<p>2. for cross origin resource sharing</p>
+
+```
+pip install Flask-Cors
+```
+
+<p>3. installing openai module for communication</p>
+
+```
+pip install openai
+```
 
   
   
