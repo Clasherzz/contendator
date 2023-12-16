@@ -5,7 +5,7 @@ import requests
 import os
 
 def transcribe_audio(file_path):
-    api_key = "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"
+    api_key = "ENTER_YOUR_API_KEY"
     client = OpenAI(api_key=api_key)
     
     try:
