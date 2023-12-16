@@ -6,7 +6,7 @@ app = Flask(__name__)
 CORS(app)  
 
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key=""ENTER_YOUR_API_KEY")
 
 @app.route('/receive-message', methods=['POST'])
 def receive_message():
