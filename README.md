@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Contendator</h1>
 
 
-<p id="description">application which filters out racist steriotypical comments and contents which hold prjudice against specific religion cast color or religion and gives it a mark accordingly.This project was contributed by Govind, Srichand , Marrea , Alna and have won3rd prize in Amaze Hackathon conducted by GCE Kannur.This readme file is not fully completed.Furthur details would be updated</p>
+<p id="description">Application which filters out racist steriotypical comments and contents which hold prjudice against specific religion cast color or religion and gives it a mark accordingly.This project was contributed by Govind, Srichand , Marrea , Alna and have won3rd prize in Amaze Hackathon conducted by GCE Kannur.This readme file is not fully completed.Furthur details would be updated</p>
 
 <h2>Project Screenshots:</h2>
 
