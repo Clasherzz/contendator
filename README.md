@@ -2,11 +2,6 @@
 
 
 <p id="description">Application which filters out racist steriotypical comments and contents which hold prjudice against specific religion cast color or religion and gives it a mark accordingly.This project was contributed by Govind, Srichand , Marrea , Alna and have won3rd prize in Amaze Hackathon conducted by GCE Kannur.This readme file is not fully completed.Furthur details would be updated</p>
-
-<h2>Project Screenshots:</h2>
-
-<img src="" alt="project-screenshot" width="400" height="400/">
-
   
   
 <h2>🧐 Features</h2>
