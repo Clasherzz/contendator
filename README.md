@@ -1,45 +1,34 @@
-<h1 align="center" id="title">Contendator</h1>
+# Contendator
 
+Contendator is an application designed to detect, filter, and revise racist, stereotypical, and prejudiced comments related to specific religions, castes, colors, or beliefs. This project was created by **Govind, Srichand, Marrea, and Alna** and won 3rd place at the **Amaze Hackathon** held at GEC Kannur.
 
-<p id="description">Application which filters out racist steriotypical comments and contents which hold prjudice against specific religion cast color or religion and gives it a mark accordingly.This project was contributed by Govind, Srichand , Marrea , Alna and have won3rd prize in Amaze Hackathon conducted by GCE Kannur.This readme file is not fully completed.Furthur details would be updated</p>
-  
-  
-<h2>🧐 Features</h2>
+## 🧐 Key Features
 
-Here're some of the project's best features:
+Some of Contendator's main features include:
 
-*   The application inputs the content and not only points out the troblesome content but also removes it and gives the better version
-*   you can input the content as a pdf file
-*   the content can be inputted as mp4 files
+- **Content Filtering**: Upload content, and the app will identify and remove problematic language, replacing it with an appropriate alternative.
+- **Multiple Input Formats Supported**:
+  - **PDF Files**: Analyze text content from PDF files.
+  - **MP4 Files**: Process audio or video in MP4 format using speech-to-text conversion for analysis.
 
-<h2>🛠️ Installation Steps:</h2>
+## 💻 Built With
 
-<p>1. installing flask for backend purposes</p>
+Technologies used in this project:
 
-```
-pip install Flask
-```
+- **Flask** – For handling backend requests.
+- **Node.js & Express** – For efficient server-side operations.
+- **OpenAI’s GPT-3.5 Turbo** – Generates non-offensive alternatives to flagged content.
+- **Whisper** – Converts speech to text in MP4 files for content analysis.
 
-<p>2. for cross origin resource sharing</p>
+## 📈 Future Updates
 
-```
-pip install Flask-Cors
-```
+Planned improvements include:
 
-<p>3. installing openai module for communication</p>
+- Enhanced UI for easier content management.
+- Support for additional file formats and languages.
+- Advanced customization options for filtering sensitivity.
 
-```
-pip install openai
-```
+## 📣 Contributing
 
-  
-  
-<h2>💻 Built with</h2>
+Contributions are welcome! If you’d like to suggest improvements or find any issues, please feel free to open an issue or submit a pull request.
 
-Technologies used in the project:
-
-*   flask
-*   node
-*   express
-*   chatgpt 3.5 turbo
-*   whisper
