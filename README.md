@@ -1,4 +1,4 @@
-# Contendator
+<h1 align="center" id="title">Contendator</h1>
 
 Contendator is an application designed to detect, filter, and revise racist, stereotypical, and prejudiced comments related to specific religions, castes, colors, or beliefs. This project was created by **Govind, Srichand, Marrea, and Alna** and won 3rd place at the **Amaze Hackathon** held at GEC Kannur.
 
